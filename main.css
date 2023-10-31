@@ -1,0 +1,19 @@
+.Title {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    position: relative;
+    text-align: center;
+}
+
+.SubTitle {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    text-align: center;
+}
+
+.pic1 {
+    position: relative;
+    height: 250px;
+    width: 250px;
+    text-align: center;
+}
